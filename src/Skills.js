@@ -1,6 +1,11 @@
 import React from 'react'
+// import { Link } from "react-router-dom";
+// import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import SkillContainer from "./SkillContainer"
 
 export default function Skills() {
+
+
     return (
         <div className="skills">
                 <h2>My Skills.</h2>
@@ -11,6 +16,16 @@ export default function Skills() {
                     <h3>Design + Development</h3>
                     <p>I may be green in the realms of coding and programming, but I'm a hard worker and a fast learner.
                         <em>Who</em> doesn't enjoy that combination!?</p>
+                        {/* <div>
+                            <nav
+                                style={{
+                                borderBottom: "solid 1px",
+                                paddingBottom: "1rem"
+                            }}
+                            >
+                            <Link to="/skills-deets">Tech Skills</Link>
+                            </nav>
+                        </div> */}
                 </div>
 
                 <div className="skill-row">
@@ -27,3 +42,16 @@ export default function Skills() {
                 </div>
     )
 }
+
+//     <nav
+//         style={{
+//           borderBottom: "solid 1px",
+//           paddingBottom: "1rem"
+//         }}
+//       >
+//         <Link to="/skill-deets">Tech Skills</Link>
+//       </nav>
+
+
+
+// |{" "}

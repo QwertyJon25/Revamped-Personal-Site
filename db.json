@@ -1,0 +1,63 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "id": 1
+    },
+    {
+      "name": "CSS",
+      "id": 2
+    },
+    {
+      "name": "JavaScript(ES6)",
+      "id": 3
+    },
+    {
+      "name": "React",
+      "id": 4
+    },
+     {
+      "name": "SQL",
+      "id": 5
+    },
+    {
+      "name": "Ruby",
+      "id": 6
+    },
+    {
+      "name": "Active Record",
+      "id": 7
+    },
+    {
+      "name": "Ruby on Rails",
+      "id": 8
+    },
+    {
+      "name": "Sinatra",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "postId": 1,
+      "content": "On my way to my corner bodega to buy some Marby Reds. Bodega cats are LIFE!",
+      "likes": 12,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "postId": 2,
+      "content": "My aunt sent me this sick Hawaiian shirt. CASH ME OUTSIDE!",
+      "likes": 2,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "postId": 3,
+      "content": "Y'all mind if I have a good day?",
+      "likes": 22,
+      "id": 3
+    }
+  ]
+}
