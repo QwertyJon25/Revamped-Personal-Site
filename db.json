@@ -37,27 +37,22 @@
       "id": 9
     }
   ],
-  "posts": [
-    {
-      "userId": 1,
-      "postId": 1,
-      "content": "On my way to my corner bodega to buy some Marby Reds. Bodega cats are LIFE!",
-      "likes": 12,
+  "art": [
+   {
+      "name": "Traditional: Pencils, Microns, Copic Markers, Ink and Brush",
       "id": 1
     },
     {
-      "userId": 1,
-      "postId": 2,
-      "content": "My aunt sent me this sick Hawaiian shirt. CASH ME OUTSIDE!",
-      "likes": 2,
+      "name": "Digital: Photoshop, Fire Alpaca",
       "id": 2
     },
     {
-      "userId": 1,
-      "postId": 3,
-      "content": "Y'all mind if I have a good day?",
-      "likes": 22,
+      "name": "Paint: Acrylic, Watercolor, Oil",
       "id": 3
+    },
+    {
+      "name": "Collage",
+      "id": 4
     }
   ]
 }
