@@ -12,7 +12,7 @@ function App() {
   const [skills, setSkills] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:6001/skills")
+    fetch("./skills")
     .then((res) => res.json())
     .then((skillData) => setSkills(skillData));
   }, [])
